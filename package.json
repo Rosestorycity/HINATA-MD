@@ -1,5 +1,5 @@
 {
-  "name": "Xcoco-Bot",
+  "name": "Hinata-Bot",
   "version": "6.0.0",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "type": "commonjs",
@@ -17,7 +17,7 @@
     "multi-device",
     "xcoco-bot-inc"
   ],
-  "author": "Sadaru",
+  "author": "Rose",
   "license": "AGPL-3",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
@@ -82,10 +82,10 @@
     "src": "src"
   },
   "devDependencies": {},
-  "repository": "git+https://github.com/malikabhishek1/Xcoco.git",
+  "repository": "git+https://github.com/Rosestorycity/HINATA-MD",
   "bugs": {
-    "url": "https://github.com/malikabhishek1/Xcoco/issues"
+    "url": "https://github.com/Rosestorycity/HINATA-MD/issues"
   },
-  "homepage": "https://github.com/malikabhishek1/Xcoco/#readme",
+  "homepage": "https://github.com/Rosestorycity/HINATA-MD/#readme",
   "main": "index.js"
 }
